@@ -1,4 +1,4 @@
-# CodeClause_Spam_Classifier
+# Emails_Spam_Classifier
 
 Description :
 
